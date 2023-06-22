@@ -1,0 +1,12 @@
+.entityTypeNode {
+  border: 2px solid #888;
+  background: white;
+  display: grid;
+}
+
+.entityTypeNode__header {
+  border-bottom: 1px solid #e2e8f0;
+  background: #0000ff;
+  color: #ffffff;
+  padding: 5px;
+}
